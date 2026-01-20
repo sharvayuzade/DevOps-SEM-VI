@@ -1,0 +1,21 @@
+DevOps Notes 
+
+Limitation in traditional system 
+1 versioning was manual
+2 team collaboration was a time consuming process 
+3 no easy access to previous version 
+4 multiple version took a lot memory space 
+There are 2 type of version control system : Central version control system , Distributed version control system .
+
+GIT 
+Git is the most popular tool among all the distributed version control tool .
+When we use git means we using DVCS .
+
+GIT LIFECYCLE
+Three phase of Git lifecycle : working directory , staging area , commit  
+
+Staging area : track the changes done in the code , to track we need some automated system , " "git add . " tracks the system 
+
+Commit : This help to do changes in file
+
+Working Directory -> Git Init WD -> fun() update -> File commit -> Github -> Customer .
